@@ -10,6 +10,10 @@ rtp://@239.0.0.77:8208
 
 https://lon-haproxy.angelthump.com/hls/dascerf1/index.m3u8
 
+#EXTINF:-1,[000] F12
+
+https://lon-haproxy.angelthump.com/hls/dascerf1/index.m3u8?stream=dascerf1
+
 #EXTINF:-1,[001] La 1
 
 rtp://@239.0.0.76:8208
