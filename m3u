@@ -8,7 +8,7 @@ rtp://@239.0.0.77:8208
 
 #EXTINF:-1,[000] F1
 
-https://lon-haproxy.angelthump.com/hls/dascerf1_low/index.m3u8
+https://lon-haproxy.angelthump.com/hls/dascerf1/index.m3u8
 
 #EXTINF:-1,[001] La 1
 
